@@ -1,0 +1,11 @@
+C:\repos\KTNEManual\src\KTNEManual.Domain\bin\Debug\net8.0\KTNEManual.Domain.deps.json
+C:\repos\KTNEManual\src\KTNEManual.Domain\bin\Debug\net8.0\KTNEManual.Domain.dll
+C:\repos\KTNEManual\src\KTNEManual.Domain\bin\Debug\net8.0\KTNEManual.Domain.pdb
+C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.AssemblyInfoInputs.cache
+C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.AssemblyInfo.cs
+C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.csproj.CoreCompileInputs.cache
+C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.dll
+C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\refint\KTNEManual.Domain.dll
+C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.pdb
+C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\ref\KTNEManual.Domain.dll
