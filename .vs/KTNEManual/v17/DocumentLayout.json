@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\KTNEManual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE44584-A887-4F03-8292-7EF456919F02}|test\\KTNEManual.ServiceTest\\KTNEManual.ServiceTest.csproj|c:\\repos\\ktnemanual\\test\\ktnemanual.servicetest\\ktnemanual.servicetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AE44584-A887-4F03-8292-7EF456919F02}|test\\KTNEManual.ServiceTest\\KTNEManual.ServiceTest.csproj|solutionrelative:test\\ktnemanual.servicetest\\ktnemanual.servicetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F775139A-CF93-4AAB-ADFF-BFE369F6C4FC}|src\\KTNEManual\\KTNEManual.csproj|c:\\repos\\ktnemanual\\src\\ktnemanual\\ktnemanual.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F775139A-CF93-4AAB-ADFF-BFE369F6C4FC}|src\\KTNEManual\\KTNEManual.csproj|solutionrelative:src\\ktnemanual\\ktnemanual.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54116C6F-91DF-4198-BCCC-4A474B0733E3}|src\\KTNEManual.Service\\KTNEManual.Service.csproj|c:\\repos\\ktnemanual\\src\\ktnemanual.service\\ktnemanual.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54116C6F-91DF-4198-BCCC-4A474B0733E3}|src\\KTNEManual.Service\\KTNEManual.Service.csproj|solutionrelative:src\\ktnemanual.service\\ktnemanual.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KTNEManual.ServiceTest",
+              "DocumentMoniker": "C:\\repos\\KTNEManual\\test\\KTNEManual.ServiceTest\\KTNEManual.ServiceTest.csproj",
+              "RelativeDocumentMoniker": "test\\KTNEManual.ServiceTest\\KTNEManual.ServiceTest.csproj",
+              "ToolTip": "C:\\repos\\KTNEManual\\test\\KTNEManual.ServiceTest\\KTNEManual.ServiceTest.csproj",
+              "RelativeToolTip": "test\\KTNEManual.ServiceTest\\KTNEManual.ServiceTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T14:13:13.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KTNEManual",
+              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual\\KTNEManual.csproj",
+              "RelativeDocumentMoniker": "src\\KTNEManual\\KTNEManual.csproj",
+              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual\\KTNEManual.csproj",
+              "RelativeToolTip": "src\\KTNEManual\\KTNEManual.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T14:12:54.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KTNEManual.Service",
+              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual.Service\\KTNEManual.Service.csproj",
+              "RelativeDocumentMoniker": "src\\KTNEManual.Service\\KTNEManual.Service.csproj",
+              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual.Service\\KTNEManual.Service.csproj",
+              "RelativeToolTip": "src\\KTNEManual.Service\\KTNEManual.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T14:12:09.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

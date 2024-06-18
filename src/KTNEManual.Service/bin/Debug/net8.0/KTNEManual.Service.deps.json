@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KTNEManual.Service/1.0.0": {
+        "dependencies": {
+          "KTNEManual.Domain": "1.0.0"
+        },
+        "runtime": {
+          "KTNEManual.Service.dll": {}
+        }
+      },
+      "KTNEManual.Domain/1.0.0": {
+        "runtime": {
+          "KTNEManual.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KTNEManual.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KTNEManual.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
