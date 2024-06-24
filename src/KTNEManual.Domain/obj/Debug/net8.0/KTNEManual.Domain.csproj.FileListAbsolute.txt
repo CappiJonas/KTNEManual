@@ -5,6 +5,7 @@ C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.Gen
 C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.AssemblyInfoInputs.cache
 C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.AssemblyInfo.cs
 C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.csproj.CoreCompileInputs.cache
+C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.sourcelink.json
 C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.dll
 C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\refint\KTNEManual.Domain.dll
 C:\repos\KTNEManual\src\KTNEManual.Domain\obj\Debug\net8.0\KTNEManual.Domain.pdb

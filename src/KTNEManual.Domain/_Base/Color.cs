@@ -1,4 +1,4 @@
-﻿namespace KTNEManual.Domain.WireModules
+﻿namespace KTNEManual.Domain._Base
 {
     public enum Color
     {
@@ -6,6 +6,7 @@
         Red,
         Blue,
         Yellow,
-        Black
+        Black,
+        Default
     }
 }

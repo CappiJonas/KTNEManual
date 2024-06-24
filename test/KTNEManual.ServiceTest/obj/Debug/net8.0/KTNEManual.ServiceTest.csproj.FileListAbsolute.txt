@@ -103,8 +103,8 @@ C:\repos\KTNEManual\KTNEManual.ServiceTest\obj\Debug\net8.0\KTNEManual.ServiceTe
 C:\repos\KTNEManual\KTNEManual.ServiceTest\obj\Debug\net8.0\KTNEManual.ServiceTest.genruntimeconfig.cache
 C:\repos\KTNEManual\KTNEManual.ServiceTest\obj\Debug\net8.0\ref\KTNEManual.ServiceTest.dll
 C:\repos\KTNEManual\test\KTNEManual.ServiceTest\bin\Debug\net8.0\CoverletSourceRootsMapping_KTNEManual.ServiceTest
-C:\repos\KTNEManual\test\KTNEManual.ServiceTest\bin\Debug\net8.0\testhost.exe
 C:\repos\KTNEManual\test\KTNEManual.ServiceTest\bin\Debug\net8.0\testhost.dll
+C:\repos\KTNEManual\test\KTNEManual.ServiceTest\bin\Debug\net8.0\testhost.exe
 C:\repos\KTNEManual\test\KTNEManual.ServiceTest\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\repos\KTNEManual\test\KTNEManual.ServiceTest\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
 C:\repos\KTNEManual\test\KTNEManual.ServiceTest\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
@@ -200,6 +200,7 @@ C:\repos\KTNEManual\test\KTNEManual.ServiceTest\obj\Debug\net8.0\KTNEManual.Serv
 C:\repos\KTNEManual\test\KTNEManual.ServiceTest\obj\Debug\net8.0\KTNEManual.ServiceTest.AssemblyInfoInputs.cache
 C:\repos\KTNEManual\test\KTNEManual.ServiceTest\obj\Debug\net8.0\KTNEManual.ServiceTest.AssemblyInfo.cs
 C:\repos\KTNEManual\test\KTNEManual.ServiceTest\obj\Debug\net8.0\KTNEManual.ServiceTest.csproj.CoreCompileInputs.cache
+C:\repos\KTNEManual\test\KTNEManual.ServiceTest\obj\Debug\net8.0\KTNEManual.ServiceTest.sourcelink.json
 C:\repos\KTNEManual\test\KTNEManual.ServiceTest\obj\Debug\net8.0\KTNEManu.4A50B9C1.Up2Date
 C:\repos\KTNEManual\test\KTNEManual.ServiceTest\obj\Debug\net8.0\KTNEManual.ServiceTest.dll
 C:\repos\KTNEManual\test\KTNEManual.ServiceTest\obj\Debug\net8.0\refint\KTNEManual.ServiceTest.dll

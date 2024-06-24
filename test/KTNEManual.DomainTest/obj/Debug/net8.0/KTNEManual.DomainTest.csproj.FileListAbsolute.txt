@@ -8,6 +8,7 @@ C:\repos\KTNEManual\test\KTNEManual.DomainTest\bin\Debug\net8.0\KTNEManual.Domai
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\bin\Debug\net8.0\KTNEManual.DomainTest.runtimeconfig.json
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\bin\Debug\net8.0\KTNEManual.DomainTest.dll
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\bin\Debug\net8.0\KTNEManual.DomainTest.pdb
+C:\repos\KTNEManual\test\KTNEManual.DomainTest\bin\Debug\net8.0\ExpectedObjects.dll
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -94,10 +95,10 @@ C:\repos\KTNEManual\test\KTNEManual.DomainTest\obj\Debug\net8.0\KTNEManual.Domai
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\obj\Debug\net8.0\KTNEManual.DomainTest.AssemblyInfoInputs.cache
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\obj\Debug\net8.0\KTNEManual.DomainTest.AssemblyInfo.cs
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\obj\Debug\net8.0\KTNEManual.DomainTest.csproj.CoreCompileInputs.cache
+C:\repos\KTNEManual\test\KTNEManual.DomainTest\obj\Debug\net8.0\KTNEManual.DomainTest.sourcelink.json
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\obj\Debug\net8.0\KTNEManu.3F009F76.Up2Date
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\obj\Debug\net8.0\KTNEManual.DomainTest.dll
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\obj\Debug\net8.0\refint\KTNEManual.DomainTest.dll
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\obj\Debug\net8.0\KTNEManual.DomainTest.pdb
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\obj\Debug\net8.0\KTNEManual.DomainTest.genruntimeconfig.cache
 C:\repos\KTNEManual\test\KTNEManual.DomainTest\obj\Debug\net8.0\ref\KTNEManual.DomainTest.dll
-C:\repos\KTNEManual\test\KTNEManual.DomainTest\bin\Debug\net8.0\ExpectedObjects.dll

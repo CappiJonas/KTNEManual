@@ -23,6 +23,7 @@ C:\repos\KTNEManual\src\KTNEManual.Service\obj\Debug\net8.0\KTNEManual.Service.G
 C:\repos\KTNEManual\src\KTNEManual.Service\obj\Debug\net8.0\KTNEManual.Service.AssemblyInfoInputs.cache
 C:\repos\KTNEManual\src\KTNEManual.Service\obj\Debug\net8.0\KTNEManual.Service.AssemblyInfo.cs
 C:\repos\KTNEManual\src\KTNEManual.Service\obj\Debug\net8.0\KTNEManual.Service.csproj.CoreCompileInputs.cache
+C:\repos\KTNEManual\src\KTNEManual.Service\obj\Debug\net8.0\KTNEManual.Service.sourcelink.json
 C:\repos\KTNEManual\src\KTNEManual.Service\obj\Debug\net8.0\KTNEManu.7743D7AC.Up2Date
 C:\repos\KTNEManual\src\KTNEManual.Service\obj\Debug\net8.0\KTNEManual.Service.dll
 C:\repos\KTNEManual\src\KTNEManual.Service\obj\Debug\net8.0\refint\KTNEManual.Service.dll

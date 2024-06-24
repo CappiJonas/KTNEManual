@@ -12,6 +12,7 @@ C:\repos\KTNEManual\src\KTNEManual\obj\Debug\net8.0\KTNEManual.GeneratedMSBuildE
 C:\repos\KTNEManual\src\KTNEManual\obj\Debug\net8.0\KTNEManual.AssemblyInfoInputs.cache
 C:\repos\KTNEManual\src\KTNEManual\obj\Debug\net8.0\KTNEManual.AssemblyInfo.cs
 C:\repos\KTNEManual\src\KTNEManual\obj\Debug\net8.0\KTNEManual.csproj.CoreCompileInputs.cache
+C:\repos\KTNEManual\src\KTNEManual\obj\Debug\net8.0\KTNEManual.sourcelink.json
 C:\repos\KTNEManual\src\KTNEManual\obj\Debug\net8.0\KTNEManual.csproj.Up2Date
 C:\repos\KTNEManual\src\KTNEManual\obj\Debug\net8.0\KTNEManual.dll
 C:\repos\KTNEManual\src\KTNEManual\obj\Debug\net8.0\refint\KTNEManual.dll
