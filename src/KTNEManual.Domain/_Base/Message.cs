@@ -31,5 +31,13 @@
             public static string PressAndReleaseButton = "Aperte o botão e solte imediatamente.";
             public static string PressAndHoldButton = "Aperte e segure o botão.";
         }
+
+        public static class KeyboardModuleMessages
+        {
+            public static string ImpossibleToImplement = "Não foi possível implementar este módulo já que esse sistema não lida com imagens. "
+                                                            + "Perdão por isso. Pedimos que veja o manual para fazer este módulo. Porém, é algo simples. " 
+                                                            + "É necessário encontrar a coluna em que há as 4 teclas e clicar na ordem que aparecem de cima " 
+                                                            + "para baixo.";
+        }
     }
 }

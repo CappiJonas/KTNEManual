@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KTNEManual.DomainTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3b2d7727e07eeb97aefc8b66993de856e661006")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7423ea0f0a8a18437efe800d1f6e951c9aa6766a")]
 [assembly: System.Reflection.AssemblyProductAttribute("KTNEManual.DomainTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KTNEManual.DomainTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

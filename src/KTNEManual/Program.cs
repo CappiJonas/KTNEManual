@@ -13,6 +13,7 @@ while (proceed)
     Console.WriteLine("Escolha um dos módulos através de seu número correspondente");
     Console.WriteLine("1 - A Respeito dos Fios");
     Console.WriteLine("2 - A Respeito do Botão");
+    Console.WriteLine("3 - A Respeito dos Teclados");
     Console.Write("Resposta: ");
     string answer = Console.ReadLine()!;
 
@@ -36,6 +37,10 @@ while (proceed)
         case 2:
             var buttonModuleController = new ButtonModuleController();
             buttonModuleController.PressButton();
+            break;
+        case 3:
+            var keyboardModuleController = new KeyboardModuleController();
+            keyboardModuleController.ShowMessage();
             break;
         default:
             Console.WriteLine("Opção escolhida inválida. Aperte um botão para escolher novamente...");

@@ -3,52 +3,32 @@
   "WorkspaceRootPath": "C:\\repos\\KTNEManual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F775139A-CF93-4AAB-ADFF-BFE369F6C4FC}|src\\KTNEManual\\KTNEManual.csproj|c:\\repos\\ktnemanual\\src\\ktnemanual\\controllers\\buttonmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F775139A-CF93-4AAB-ADFF-BFE369F6C4FC}|src\\KTNEManual\\KTNEManual.csproj|solutionrelative:src\\ktnemanual\\controllers\\buttonmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54116C6F-91DF-4198-BCCC-4A474B0733E3}|src\\KTNEManual.Service\\KTNEManual.Service.csproj|C:\\repos\\KTNEManual\\src\\ktnemanual.service\\buttonmoduleservices\\holdbuttonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54116C6F-91DF-4198-BCCC-4A474B0733E3}|src\\KTNEManual.Service\\KTNEManual.Service.csproj|solutionrelative:src\\ktnemanual.service\\buttonmoduleservices\\holdbuttonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BF9CA54-B012-47E7-BCAD-3399FD7CEF6E}|src\\KTNEManual.Domain\\KTNEManual.Domain.csproj|C:\\repos\\KTNEManual\\src\\ktnemanual.domain\\_base\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BF9CA54-B012-47E7-BCAD-3399FD7CEF6E}|src\\KTNEManual.Domain\\KTNEManual.Domain.csproj|solutionrelative:src\\ktnemanual.domain\\_base\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F775139A-CF93-4AAB-ADFF-BFE369F6C4FC}|src\\KTNEManual\\KTNEManual.csproj|c:\\repos\\ktnemanual\\src\\ktnemanual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F775139A-CF93-4AAB-ADFF-BFE369F6C4FC}|src\\KTNEManual\\KTNEManual.csproj|solutionrelative:src\\ktnemanual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54116C6F-91DF-4198-BCCC-4A474B0733E3}|src\\KTNEManual.Service\\KTNEManual.Service.csproj|c:\\repos\\ktnemanual\\src\\ktnemanual.service\\buttonmoduleservices\\interfaces\\ipressbuttonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54116C6F-91DF-4198-BCCC-4A474B0733E3}|src\\KTNEManual.Service\\KTNEManual.Service.csproj|solutionrelative:src\\ktnemanual.service\\buttonmoduleservices\\interfaces\\ipressbuttonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54116C6F-91DF-4198-BCCC-4A474B0733E3}|src\\KTNEManual.Service\\KTNEManual.Service.csproj|c:\\repos\\ktnemanual\\src\\ktnemanual.service\\buttonmoduleservices\\pressbuttonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54116C6F-91DF-4198-BCCC-4A474B0733E3}|src\\KTNEManual.Service\\KTNEManual.Service.csproj|solutionrelative:src\\ktnemanual.service\\buttonmoduleservices\\pressbuttonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F775139A-CF93-4AAB-ADFF-BFE369F6C4FC}|src\\KTNEManual\\KTNEManual.csproj|c:\\repos\\ktnemanual\\src\\ktnemanual\\controllers\\keyboardmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F775139A-CF93-4AAB-ADFF-BFE369F6C4FC}|src\\KTNEManual\\KTNEManual.csproj|solutionrelative:src\\ktnemanual\\controllers\\keyboardmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F775139A-CF93-4AAB-ADFF-BFE369F6C4FC}|src\\KTNEManual\\KTNEManual.csproj|c:\\repos\\ktnemanual\\src\\ktnemanual\\controllers\\wiremodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F775139A-CF93-4AAB-ADFF-BFE369F6C4FC}|src\\KTNEManual\\KTNEManual.csproj|solutionrelative:src\\ktnemanual\\controllers\\wiremodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AE44584-A887-4F03-8292-7EF456919F02}|test\\KTNEManual.ServiceTest\\KTNEManual.ServiceTest.csproj|C:\\repos\\KTNEManual\\test\\ktnemanual.servicetest\\buttonmoduleservices\\holdbuttonservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AE44584-A887-4F03-8292-7EF456919F02}|test\\KTNEManual.ServiceTest\\KTNEManual.ServiceTest.csproj|solutionrelative:test\\ktnemanual.servicetest\\buttonmoduleservices\\holdbuttonservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F775139A-CF93-4AAB-ADFF-BFE369F6C4FC}|src\\KTNEManual\\KTNEManual.csproj|c:\\repos\\ktnemanual\\src\\ktnemanual\\controllers\\buttonmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F775139A-CF93-4AAB-ADFF-BFE369F6C4FC}|src\\KTNEManual\\KTNEManual.csproj|solutionrelative:src\\ktnemanual\\controllers\\buttonmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AE44584-A887-4F03-8292-7EF456919F02}|test\\KTNEManual.ServiceTest\\KTNEManual.ServiceTest.csproj|c:\\repos\\ktnemanual\\test\\ktnemanual.servicetest\\buttonmoduleservices\\pressbuttonservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AE44584-A887-4F03-8292-7EF456919F02}|test\\KTNEManual.ServiceTest\\KTNEManual.ServiceTest.csproj|solutionrelative:test\\ktnemanual.servicetest\\buttonmoduleservices\\pressbuttonservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54116C6F-91DF-4198-BCCC-4A474B0733E3}|src\\KTNEManual.Service\\KTNEManual.Service.csproj|c:\\repos\\ktnemanual\\src\\ktnemanual.service\\keyboardmoduleservices\\keyboardmoduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54116C6F-91DF-4198-BCCC-4A474B0733E3}|src\\KTNEManual.Service\\KTNEManual.Service.csproj|solutionrelative:src\\ktnemanual.service\\keyboardmoduleservices\\keyboardmoduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BF9CA54-B012-47E7-BCAD-3399FD7CEF6E}|src\\KTNEManual.Domain\\KTNEManual.Domain.csproj|C:\\repos\\KTNEManual\\src\\ktnemanual.domain\\buttonmodules\\buttonmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BF9CA54-B012-47E7-BCAD-3399FD7CEF6E}|src\\KTNEManual.Domain\\KTNEManual.Domain.csproj|solutionrelative:src\\ktnemanual.domain\\buttonmodules\\buttonmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AE44584-A887-4F03-8292-7EF456919F02}|test\\KTNEManual.ServiceTest\\KTNEManual.ServiceTest.csproj|c:\\repos\\ktnemanual\\test\\ktnemanual.servicetest\\keyboardmoduleservices\\keyboardmoduleservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE44584-A887-4F03-8292-7EF456919F02}|test\\KTNEManual.ServiceTest\\KTNEManual.ServiceTest.csproj|solutionrelative:test\\ktnemanual.servicetest\\keyboardmoduleservices\\keyboardmoduleservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8DB7D72-AB8E-42A1-81CC-394CC24231B2}|test\\KTNEManual.DomainTest\\KTNEManual.DomainTest.csproj|C:\\repos\\KTNEManual\\test\\ktnemanual.domaintest\\buttonmodules\\buttonmoduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8DB7D72-AB8E-42A1-81CC-394CC24231B2}|test\\KTNEManual.DomainTest\\KTNEManual.DomainTest.csproj|solutionrelative:test\\ktnemanual.domaintest\\buttonmodules\\buttonmoduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BF9CA54-B012-47E7-BCAD-3399FD7CEF6E}|src\\KTNEManual.Domain\\KTNEManual.Domain.csproj|C:\\repos\\KTNEManual\\src\\ktnemanual.domain\\_base\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BF9CA54-B012-47E7-BCAD-3399FD7CEF6E}|src\\KTNEManual.Domain\\KTNEManual.Domain.csproj|solutionrelative:src\\ktnemanual.domain\\_base\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BF9CA54-B012-47E7-BCAD-3399FD7CEF6E}|src\\KTNEManual.Domain\\KTNEManual.Domain.csproj|c:\\repos\\ktnemanual\\src\\ktnemanual.domain\\_base\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF9CA54-B012-47E7-BCAD-3399FD7CEF6E}|src\\KTNEManual.Domain\\KTNEManual.Domain.csproj|solutionrelative:src\\ktnemanual.domain\\_base\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,161 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WireModuleController.cs",
-              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual\\Controllers\\WireModuleController.cs",
-              "RelativeDocumentMoniker": "src\\KTNEManual\\Controllers\\WireModuleController.cs",
-              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual\\Controllers\\WireModuleController.cs",
-              "RelativeToolTip": "src\\KTNEManual\\Controllers\\WireModuleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T14:47:27.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual\\Program.cs",
               "RelativeDocumentMoniker": "src\\KTNEManual\\Program.cs",
               "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual\\Program.cs",
               "RelativeToolTip": "src\\KTNEManual\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAPAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T14:43:07.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ButtonModuleController.cs",
-              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual\\Controllers\\ButtonModuleController.cs",
-              "RelativeDocumentMoniker": "src\\KTNEManual\\Controllers\\ButtonModuleController.cs",
-              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual\\Controllers\\ButtonModuleController.cs",
-              "RelativeToolTip": "src\\KTNEManual\\Controllers\\ButtonModuleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T14:41:12.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPressButtonService.cs",
-              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual.Service\\ButtonModuleServices\\Interfaces\\IPressButtonService.cs",
-              "RelativeDocumentMoniker": "src\\KTNEManual.Service\\ButtonModuleServices\\Interfaces\\IPressButtonService.cs",
-              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual.Service\\ButtonModuleServices\\Interfaces\\IPressButtonService.cs",
-              "RelativeToolTip": "src\\KTNEManual.Service\\ButtonModuleServices\\Interfaces\\IPressButtonService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T13:46:36.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PressButtonServiceTest.cs",
-              "DocumentMoniker": "C:\\repos\\KTNEManual\\test\\KTNEManual.ServiceTest\\ButtonModuleServices\\PressButtonServiceTest.cs",
-              "RelativeDocumentMoniker": "test\\KTNEManual.ServiceTest\\ButtonModuleServices\\PressButtonServiceTest.cs",
-              "ToolTip": "C:\\repos\\KTNEManual\\test\\KTNEManual.ServiceTest\\ButtonModuleServices\\PressButtonServiceTest.cs",
-              "RelativeToolTip": "test\\KTNEManual.ServiceTest\\ButtonModuleServices\\PressButtonServiceTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T20:29:47.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PressButtonService.cs",
-              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual.Service\\ButtonModuleServices\\PressButtonService.cs",
-              "RelativeDocumentMoniker": "src\\KTNEManual.Service\\ButtonModuleServices\\PressButtonService.cs",
-              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual.Service\\ButtonModuleServices\\PressButtonService.cs",
-              "RelativeToolTip": "src\\KTNEManual.Service\\ButtonModuleServices\\PressButtonService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T20:29:12.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HoldButtonService.cs",
-              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual.Service\\ButtonModuleServices\\HoldButtonService.cs",
-              "RelativeDocumentMoniker": "src\\KTNEManual.Service\\ButtonModuleServices\\HoldButtonService.cs",
-              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual.Service\\ButtonModuleServices\\HoldButtonService.cs",
-              "RelativeToolTip": "src\\KTNEManual.Service\\ButtonModuleServices\\HoldButtonService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T19:51:24.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HoldButtonServiceTest.cs",
-              "DocumentMoniker": "C:\\repos\\KTNEManual\\test\\KTNEManual.ServiceTest\\ButtonModuleServices\\HoldButtonServiceTest.cs",
-              "RelativeDocumentMoniker": "test\\KTNEManual.ServiceTest\\ButtonModuleServices\\HoldButtonServiceTest.cs",
-              "ToolTip": "C:\\repos\\KTNEManual\\test\\KTNEManual.ServiceTest\\ButtonModuleServices\\HoldButtonServiceTest.cs",
-              "RelativeToolTip": "test\\KTNEManual.ServiceTest\\ButtonModuleServices\\HoldButtonServiceTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T19:39:55.577Z",
+              "WhenOpened": "2024-06-25T01:37:50.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "WireModuleController.cs",
+              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual\\Controllers\\WireModuleController.cs",
+              "RelativeDocumentMoniker": "src\\KTNEManual\\Controllers\\WireModuleController.cs",
+              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual\\Controllers\\WireModuleController.cs",
+              "RelativeToolTip": "src\\KTNEManual\\Controllers\\WireModuleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:37:43.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonModuleController.cs",
+              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual\\Controllers\\ButtonModuleController.cs",
+              "RelativeDocumentMoniker": "src\\KTNEManual\\Controllers\\ButtonModuleController.cs",
+              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual\\Controllers\\ButtonModuleController.cs",
+              "RelativeToolTip": "src\\KTNEManual\\Controllers\\ButtonModuleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:37:42.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyboardModuleController.cs",
+              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual\\Controllers\\KeyboardModuleController.cs",
+              "RelativeDocumentMoniker": "src\\KTNEManual\\Controllers\\KeyboardModuleController.cs",
+              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual\\Controllers\\KeyboardModuleController.cs",
+              "RelativeToolTip": "src\\KTNEManual\\Controllers\\KeyboardModuleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:37:16.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual.Domain\\_Base\\Message.cs",
               "RelativeDocumentMoniker": "src\\KTNEManual.Domain\\_Base\\Message.cs",
               "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual.Domain\\_Base\\Message.cs",
               "RelativeToolTip": "src\\KTNEManual.Domain\\_Base\\Message.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAlwB8AAABRAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACcAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T15:49:50.503Z",
+              "WhenOpened": "2024-06-25T01:28:22.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ButtonModuleTest.cs",
-              "DocumentMoniker": "C:\\repos\\KTNEManual\\test\\KTNEManual.DomainTest\\ButtonModules\\ButtonModuleTest.cs",
-              "RelativeDocumentMoniker": "test\\KTNEManual.DomainTest\\ButtonModules\\ButtonModuleTest.cs",
-              "ToolTip": "C:\\repos\\KTNEManual\\test\\KTNEManual.DomainTest\\ButtonModules\\ButtonModuleTest.cs",
-              "RelativeToolTip": "test\\KTNEManual.DomainTest\\ButtonModules\\ButtonModuleTest.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABYAAAAqAAAA",
+              "DocumentIndex": 5,
+              "Title": "KeyboardModuleServiceTest.cs",
+              "DocumentMoniker": "C:\\repos\\KTNEManual\\test\\KTNEManual.ServiceTest\\KeyboardModuleServices\\KeyboardModuleServiceTest.cs",
+              "RelativeDocumentMoniker": "test\\KTNEManual.ServiceTest\\KeyboardModuleServices\\KeyboardModuleServiceTest.cs",
+              "ToolTip": "C:\\repos\\KTNEManual\\test\\KTNEManual.ServiceTest\\KeyboardModuleServices\\KeyboardModuleServiceTest.cs",
+              "RelativeToolTip": "test\\KTNEManual.ServiceTest\\KeyboardModuleServices\\KeyboardModuleServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T15:29:12.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ButtonModule.cs",
-              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual.Domain\\ButtonModules\\ButtonModule.cs",
-              "RelativeDocumentMoniker": "src\\KTNEManual.Domain\\ButtonModules\\ButtonModule.cs",
-              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual.Domain\\ButtonModules\\ButtonModule.cs",
-              "RelativeToolTip": "src\\KTNEManual.Domain\\ButtonModules\\ButtonModule.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAB8AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T15:28:22.487Z",
+              "WhenOpened": "2024-06-25T01:25:20.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Color.cs",
-              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual.Domain\\_Base\\Color.cs",
-              "RelativeDocumentMoniker": "src\\KTNEManual.Domain\\_Base\\Color.cs",
-              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual.Domain\\_Base\\Color.cs",
-              "RelativeToolTip": "src\\KTNEManual.Domain\\_Base\\Color.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "KeyboardModuleService.cs",
+              "DocumentMoniker": "C:\\repos\\KTNEManual\\src\\KTNEManual.Service\\KeyboardModuleServices\\KeyboardModuleService.cs",
+              "RelativeDocumentMoniker": "src\\KTNEManual.Service\\KeyboardModuleServices\\KeyboardModuleService.cs",
+              "ToolTip": "C:\\repos\\KTNEManual\\src\\KTNEManual.Service\\KeyboardModuleServices\\KeyboardModuleService.cs",
+              "RelativeToolTip": "src\\KTNEManual.Service\\KeyboardModuleServices\\KeyboardModuleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T15:24:33.551Z"
+              "WhenOpened": "2024-06-25T01:23:34.774Z",
+              "EditorCaption": ""
             }
           ]
         }
